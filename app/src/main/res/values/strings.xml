@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxKotlin</string>
+    <string name="text_some_thing">something</string>
+    <string name="text_title">title</string>
+    <string name="text_content">content</string>
+    <string name="text_add">Add</string>
+    <string name="text_search">Tìm kiếm theo tên</string>
+</resources>
